@@ -27,7 +27,7 @@ namespace Cupertino_bot.libreriaHolk
                 Console.WriteLine("Intentando abrir la URL: " + Url);
                 //descargas
 
-                //chromeOptions.AddUserProfilePreference("download.default_directory", @"C:\lili\"+ ruta01);
+                //chromeOptions.AddUserProfilePreference("download.default_directory", @"C:\holk\"+ ruta01);
                 /*
                 //driver = new 
                 ChromeDriverService Service;
